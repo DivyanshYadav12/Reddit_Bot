@@ -6,7 +6,7 @@ Automated Posting: Posts AI-generated content to Reddit at regular intervals (e.
 AI Integration: Uses Groq AI for generating engaging and insightful posts.
 Comment Generation: Optionally generates comments on other posts in a subreddit.
 Error Handling: Logs errors for debugging and provides informative logs during execution.
-Requirements
+# Requirements
 Python: Make sure Python 3.8 or above is installed.
 APIs:
 Groq API: For AI content generation.
