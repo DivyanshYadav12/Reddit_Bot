@@ -19,10 +19,13 @@ Install Dependencies: Install required Python packages using requirements.txt:
 pip install -r requirements.txt
 Set Up API Keys:
 Create a .env file or update the code with your credentials:
-Groq API Key: Obtain from Groq.
-Reddit API Credentials: Create an app at Reddit Apps to get:
-client_id
-client_secret
-username
-password
-user_agent
+# Groq API Key: 
+Obtain from Groq (https://console.groq.com/keys).
+Reddit API Credentials:
+# Create an app at Reddit Apps to get 
+## (https://www.reddit.com/prefs/apps):
+client_id,
+client_secret,
+username,
+password,
+user_agent,
