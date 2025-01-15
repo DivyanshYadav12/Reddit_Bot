@@ -20,7 +20,7 @@ pip install -r requirements.txt
 Set Up API Keys:
 Create a .env file or update the code with your credentials:
 # Groq API Key: 
-Obtain from Groq (https://console.groq.com/keys).
+Obtain from Groq (https://console.groq.com).
 Reddit API Credentials:
 # Create an app at Reddit Apps to get 
 ## (https://www.reddit.com/prefs/apps):
