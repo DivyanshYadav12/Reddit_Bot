@@ -13,7 +13,7 @@ Groq API: For AI content generation.
 Reddit API: For Reddit interaction (posting and commenting).
 # Setup Instructions
 Clone the Repository:
-git clone https://https://github.com/DivyanshYadav12/Reddit_Bot
+git clone https://github.com/DivyanshYadav12/Reddit_Bot
 cd reddit-bot
 Install Dependencies: Install required Python packages using requirements.txt:
 pip install -r requirements.txt
