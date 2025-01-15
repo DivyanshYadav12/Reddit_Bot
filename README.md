@@ -2,7 +2,7 @@
 This project is a Reddit bot that automatically posts AI-generated content to a subreddit and optionally comments on other posts. The bot uses the Groq AI API for content generation and the Reddit API for interacting with Reddit.
 
 # Features
-Automated Posting: Posts AI-generated content to Reddit at regular intervals (e.g., every 1 hour).
+Automated Posting: Posts AI-generated content to Reddit at regular intervals (e.g., every user spessified time).
 AI Integration: Uses Groq AI for generating engaging and insightful posts.
 Comment Generation: Optionally generates comments on other posts in a subreddit.
 Error Handling: Logs errors for debugging and provides informative logs during execution.
